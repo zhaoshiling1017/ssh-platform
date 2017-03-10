@@ -1,0 +1,9 @@
+.classpath
+.project
+module_ssh-platform.xml
+ssh-platform.properties
+ssh-platform.xml
+out
+.settings
+.idea
+ssh-platform.iml
